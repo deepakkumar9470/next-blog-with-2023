@@ -96,7 +96,7 @@ const Login = () => {
                Login
             </button>
           </div>
-          <p className="mt-4 text-center"><Link href="/register">Don't have an account? <span className="text-indigo-800">Register here</span></Link></p>
+          <p className="mt-4 text-center"><Link href="/register">Do not have an account? <span className="text-indigo-800">Register here</span></Link></p>
 
         </form>
         
